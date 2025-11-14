@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Buoi1_2380601228_NgoThiBaoLoan/1.0.0": {
+        "runtime": {
+          "Buoi1_2380601228_NgoThiBaoLoan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi1_2380601228_NgoThiBaoLoan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

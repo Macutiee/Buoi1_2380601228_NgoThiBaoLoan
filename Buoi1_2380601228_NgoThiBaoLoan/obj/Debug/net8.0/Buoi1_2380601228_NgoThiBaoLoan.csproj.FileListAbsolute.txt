@@ -1,0 +1,15 @@
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\bin\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.exe
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\bin\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.deps.json
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\bin\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.runtimeconfig.json
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\bin\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.dll
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\bin\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.pdb
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.AssemblyInfoInputs.cache
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.AssemblyInfo.cs
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.csproj.CoreCompileInputs.cache
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.dll
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\refint\Buoi1_2380601228_NgoThiBaoLoan.dll
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.pdb
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.genruntimeconfig.cache
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\ref\Buoi1_2380601228_NgoThiBaoLoan.dll
+D:\LapTrinhWins\Buoi1_2380601228_NgoThiBaoLoan\obj\Debug\net8.0\Buoi1_2380601228_NgoThiBaoLoan.sourcelink.json
